@@ -25,9 +25,8 @@
   <a href="https://aws.amazon.com/quicksight/" target="_blank" title="Amazon QuickSight - Servicio de análisis empresarial en la nube"><img src="/assets/icons/quicksight.svg" alt="QuickSight" width="40" height="40"/></a>
   <!-- SSIS -->
   <a href="https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services" target="_blank" title="SQL Server Integration Services - Herramienta ETL de Microsoft"><img src="/assets/icons/ssis.png" alt="SSIS / SQL Server Integration Services" width="40" height="40"/></a>
-
   <!-- Databricks -->
-  <a href="https://databricks.com/" target="_blank" title="Databricks - Plataforma unificada de datos e IA"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.svg" alt="Databricks" width="40" height="40"/></a>
+  <a href="https://databricks.com/" target="_blank" title="Databricks - Plataforma unificada de datos e IA"><img src="/assets/icons/databricks.svg" alt="Databricks" width="40" height="40"/></a>
 
   <!-- Stratio -->
   <a href="https://www.stratio.com/" target="_blank" title="Stratio - Plataforma de datos empresariales"><img src="https://avatars.githubusercontent.com/u/1702726?s=200&v=4" alt="Stratio" width="40" height="40"/></a>
