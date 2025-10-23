@@ -12,7 +12,7 @@
   <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python / PySpark" width="40" height="40"/>
   <!-- SQL -->
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBfgPZLrFWzj7fcCItrk94YxVSy2XnYkVnBg&s" alt="SQL" width="40" height="40"/>
+  <img src="/assets/icons/sql.png" alt="SQL" width="40" height="40"/>
   <!-- Jira -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
   
