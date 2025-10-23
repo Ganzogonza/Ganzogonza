@@ -30,13 +30,13 @@
   <!-- Stratio -->
   <a href="https://www.stratio.com/" target="_blank" title="Stratio - Plataforma de datos empresariales"><img src="/assets/icons/stratio.svg" alt="Stratio" width="40" height="40"/></a>
   <!-- Fabric -->
-  <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank" title="Microsoft Fabric - Plataforma de análisis unificada"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Microsoft_Fabric_Logo.svg" alt="Fabric" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank" title="Microsoft Fabric - Plataforma de análisis unificada"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Microsoft_Fabric_Logo.svg" alt="MS Fabric" width="40" height="40"/></a>
 
   <!-- Azure -->
   <a href="https://azure.microsoft.com/" target="_blank" title="Microsoft Azure - Plataforma de servicios en la nube"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/></a>
 
   <!-- Purview -->
-  <a href="https://learn.microsoft.com/en-us/purview/" target="_blank" title="Azure Purview - Gobierno de datos en la nube"><img src="https://learn.microsoft.com/en-us/azure/purview/media/index/azure-purview.svg" alt="Azure Purview" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/en-us/purview/" target="_blank" title="Azure Purview - Gobierno de datos en la nube"><img src="https://learn.microsoft.com/en-us/azure/purview/media/index/azure-purview.svg" alt="Purview" width="40" height="40"/></a>
 
   <!-- AWS -->
   <a href="https://aws.amazon.com/" target="_blank" title="Amazon Web Services - Plataforma de servicios en la nube"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40"/></a>
