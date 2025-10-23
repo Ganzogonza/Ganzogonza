@@ -20,16 +20,15 @@
   <!-- Qlik -->
   <img src="/assets/icons/qlik.svg" alt="Qlik" width="40" height="40"/>
   <!-- Tableau -->
-  <img src="/assets/icons/tableau.svg" alt="Tableau" width="80" height="40"/>
-
+  <img src="/assets/icons/tableau.svg" alt="Tableau" width="40" height="40"/>
   <!-- QuickSight -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Amazon_QuickSight_logo.svg" alt="QuickSight" width="80" height="40"/>
+  <img src="/assets/icons/quicksight.svg" alt="QuickSight" width="40" height="40"/>
 
   <!-- SSIS -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Microsoft_SQL_Server_Logo.svg" alt="SSIS / SQL Server Integration Services" width="40" height="40"/>
 
   <!-- Databricks -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.svg" alt="Databricks" width="100" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.svg" alt="Databricks" width="40" height="40"/>
 
   <!-- Stratio -->
   <img src="https://avatars.githubusercontent.com/u/1702726?s=200&v=4" alt="Stratio" width="40" height="40"/>
@@ -41,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
 
   <!-- Purview -->
-  <img src="https://learn.microsoft.com/en-us/azure/purview/media/index/azure-purview.svg" alt="Azure Purview" width="80" height="40"/>
+  <img src="https://learn.microsoft.com/en-us/azure/purview/media/index/azure-purview.svg" alt="Azure Purview" width="40" height="40"/>
 
   <!-- AWS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40"/>
