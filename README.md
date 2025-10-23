@@ -29,9 +29,8 @@
   <a href="https://databricks.com/" target="_blank" title="Databricks - Plataforma unificada de datos e IA"><img src="/assets/icons/databricks.svg" alt="Databricks" width="40" height="40"/></a>
   <!-- Stratio -->
   <a href="https://www.stratio.com/" target="_blank" title="Stratio - Plataforma de datos empresariales"><img src="/assets/icons/stratio.svg" alt="Stratio" width="40" height="40"/></a>
-
-  <!-- Microsoft Fabric -->
-  <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank" title="Microsoft Fabric - Plataforma de análisis unificada"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Microsoft_Fabric_Logo.svg" alt="Microsoft Fabric" width="40" height="40"/></a>
+  <!-- Fabric -->
+  <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank" title="Microsoft Fabric - Plataforma de análisis unificada"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Microsoft_Fabric_Logo.svg" alt="Fabric" width="40" height="40"/></a>
 
   <!-- Azure -->
   <a href="https://azure.microsoft.com/" target="_blank" title="Microsoft Azure - Plataforma de servicios en la nube"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/></a>
