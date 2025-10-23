@@ -15,12 +15,10 @@
   <img src="/assets/icons/sql.png" alt="SQL" width="40" height="40"/>
   <!-- Jira -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
-  
   <!-- Power BI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-
   <!-- Qlik -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Qlik_Logo.svg" alt="Qlik" width="80" height="40"/>
+  <img src="/assets/icons/qlik.svg" alt="Qlik" width="80" height="40"/>
 
   <!-- Tableau -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.svg" alt="Tableau" width="80" height="40"/>
