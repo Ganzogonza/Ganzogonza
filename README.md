@@ -27,9 +27,8 @@
   <a href="https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services" target="_blank" title="SQL Server Integration Services - Herramienta ETL de Microsoft"><img src="/assets/icons/ssis.png" alt="SSIS / SQL Server Integration Services" width="40" height="40"/></a>
   <!-- Databricks -->
   <a href="https://databricks.com/" target="_blank" title="Databricks - Plataforma unificada de datos e IA"><img src="/assets/icons/databricks.svg" alt="Databricks" width="40" height="40"/></a>
-
   <!-- Stratio -->
-  <a href="https://www.stratio.com/" target="_blank" title="Stratio - Plataforma de datos empresariales"><img src="https://avatars.githubusercontent.com/u/1702726?s=200&v=4" alt="Stratio" width="40" height="40"/></a>
+  <a href="https://www.stratio.com/" target="_blank" title="Stratio - Plataforma de datos empresariales"><img src="/assets/icons/stratio.svg" alt="Stratio" width="40" height="40"/></a>
 
   <!-- Microsoft Fabric -->
   <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank" title="Microsoft Fabric - Plataforma de análisis unificada"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Microsoft_Fabric_Logo.svg" alt="Microsoft Fabric" width="40" height="40"/></a>
