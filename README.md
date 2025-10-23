@@ -18,10 +18,9 @@
   <!-- Power BI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   <!-- Qlik -->
-  <img src="/assets/icons/qlik.svg" alt="Qlik" width="80" height="40"/>
-
+  <img src="/assets/icons/qlik.svg" alt="Qlik" width="40" height="40"/>
   <!-- Tableau -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.svg" alt="Tableau" width="80" height="40"/>
+  <img src="/assets/icons/tableau.svg" alt="Tableau" width="80" height="40"/>
 
   <!-- QuickSight -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Amazon_QuickSight_logo.svg" alt="QuickSight" width="80" height="40"/>
