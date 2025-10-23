@@ -28,7 +28,7 @@
   <!-- Databricks -->
   <a href="https://databricks.com/" target="_blank" title="Databricks"><img src="/assets/icons/databricks.svg" alt="Databricks" width="40" height="40"/></a>
   <!-- Stratio -->
-  <a href="https://www.stratio.com/" target="_blank" title="Stratio"><img src="/assets/icons/stratio.svg" alt="Stratio" width="40" height="80"/></a>
+  <a href="https://www.stratio.com/" target="_blank" title="Stratio"><img src="/assets/icons/stratio.svg" alt="Stratio" width="40" height="30"/></a>
   <!-- Fabric -->
   <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank" title="Microsoft Fabric"><img src="/assets/icons/fabric.png" alt="Fabric" width="40" height="40"/></a>
   <!-- Azure -->
