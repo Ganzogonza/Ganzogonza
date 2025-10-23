@@ -23,9 +23,8 @@
   <a href="https://www.tableau.com/"><img src="/assets/icons/tableau.svg" alt="Tableau" width="40" height="40"/></a>
   <!-- QuickSight -->
   <a href="https://aws.amazon.com/quicksight/"><img src="/assets/icons/quicksight.svg" alt="QuickSight" width="40" height="40"/></a>
-
   <!-- SSIS -->
-  <a href="https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services"><img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Microsoft_SQL_Server_Logo.svg" alt="SSIS / SQL Server Integration Services" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services"><img src="/assets/icons/ssis.png" alt="SSIS / SQL Server Integration Services" width="40" height="40"/></a>
 
   <!-- Databricks -->
   <a href="https://databricks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.svg" alt="Databricks" width="40" height="40"/></a>
