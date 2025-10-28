@@ -1,0 +1,60 @@
+INSTRUCCIONES RÁPIDAS (solo referencia)
+- Windows/Linux: Alt+Click | Ctrl+Alt+Flecha abajo/arriba | Ctrl+D | Alt+Shift+I | Shift+Alt + arrastrar
+- macOS: Option+Click | Option+Cmd+Flecha abajo/arriba | Cmd+D | Shift+Option+I | Option + arrastrar
+
+---
+SECCIÓN 1: Correos (cambia el dominio y agrega un sufijo)
+Objetivo sugerido:
+- Reemplaza todo "@old-domain.com" por "@midominio.com"
+- Agrega ";suscrito" al final de cada línea
+
+usuario01@old-domain.com
+usuario02@old-domain.com
+usuario03@old-domain.com
+usuario04@old-domain.com
+usuario05@old-domain.com
+usuario06@old-domain.com
+usuario07@old-domain.com
+usuario08@old-domain.com
+usuario09@old-domain.com
+usuario10@old-domain.com
+
+---
+SECCIÓN 2: JS simple (edita varias declaraciones a la vez)
+Objetivo sugerido:
+- Cambia 'pendiente' por 'listo'
+- Agrega " // ok" al final de cada línea
+
+const producto_01 = 'pendiente';
+const producto_02 = 'pendiente';
+const producto_03 = 'pendiente';
+const producto_04 = 'pendiente';
+const producto_05 = 'pendiente';
+const producto_06 = 'pendiente';
+const producto_07 = 'pendiente';
+const producto_08 = 'pendiente';
+const producto_09 = 'pendiente';
+const producto_10 = 'pendiente';
+
+---
+SECCIÓN 3: HTML repetido (inserta el mismo atributo en varias líneas)
+Objetivo sugerido:
+- Inserta el atributo data-tag="promo" antes del cierre de > en cada <li>
+
+<li class="item">Item 01</li>
+<li class="item">Item 02</li>
+<li class="item">Item 03</li>
+<li class="item">Item 04</li>
+<li class="item">Item 05</li>
+<li class="item">Item 06</li>
+<li class="item">Item 07</li>
+<li class="item">Item 08</li>
+<li class="item">Item 09</li>
+<li class="item">Item 10</li>
+
+---
+Sugerencias de uso de multicursor
+- Ctrl+D / Cmd+D: selecciona la siguiente coincidencia de la palabra actual.
+- Alt+Shift+I / Shift+Option+I: coloca cursores al final de líneas seleccionadas.
+- Ctrl+Alt+Flecha abajo/arriba (Win/Linux) u Option+Cmd+Flecha abajo/arriba (macOS): agrega cursores verticalmente.
+- Shift+Alt + arrastrar (Win/Linux) u Option + arrastrar (macOS): selección de columna.
